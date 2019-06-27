@@ -62,8 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Mes_Scripts\LocalRotation.cs" />
-    <None Include="Assets\Scenes\Mes_Scripts\NewSurfaceShader.shader" />
+    <Compile Include="Assets\Mes_Scripts\ARCoaster.cs" />
+    <Compile Include="Assets\Mes_Scripts\LocalRotation.cs" />
+    <None Include="Assets\Mes_Scripts\NewSurfaceShader.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/patrickmbenza/Coaster_angle_based_display/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
